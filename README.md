@@ -1,4 +1,6 @@
-# Revisão Sistemática da Literatura (RSL) - Etapas e Resultados
+# Aplicação de Heurísticas Espaço-Temporais na Análise de Registros de Detalhes de Chamadas (CDR) para a Construção de Base de Dados de Deslocamento Urbano
+
+## Revisão Sistemática da Literatura (RSL) - Etapas e Resultados 
 
 Este repositório contém os dados e informações relacionados à revisão sistemática da literatura realizada como parte de uma dissertação. A revisão sistemática foi conduzida com base em critérios de inclusão e exclusão rigorosamente definidos para identificar artigos relevantes que utilizam dados de telefonia, especificamente **CDR (Call Detail Records)**, para a criação de uma base de caminhos e de origem-destino, aplicável a serviços de cidades inteligentes.
 
